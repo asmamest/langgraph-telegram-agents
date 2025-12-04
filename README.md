@@ -34,11 +34,20 @@ Welcome to the ultimate hands-on workshop for building multimodal Telegram agent
 
 ## 📂 Getting Started
 
-1. **Grab the Slides**: Official slides contain key visuals, diagrams, and concepts.  
-2. **Download the Notebooks**:  
-   - Access the Google Colab notebooks via [Google Drive](#)  
-   - Upload them to your own Drive to avoid dependency issues.  
-3. **Follow Along**: Open notebooks as instructed in the videos for a seamless experience.
+1. **Fork or Clone the Repo**  
+   - Fork this repository or clone it locally using:  
+     ```bash
+     git clone https://github.com/your-username/langgraph-telegram-agents.git
+     ```  
+   - Navigate into the project directory.
+
+2. **Open in Google Colab**  
+   - Open the notebooks directly in [Google Colab](https://colab.research.google.com/) by selecting **File → Open notebook → GitHub** and paste your forked repo URL.  
+   - This ensures you can run all notebooks without worrying about local dependencies.
+
+3. **Follow Along**  
+   - Open each notebook in the order mentioned in the videos to build your Telegram agent step by step.
+
 
 ---
 
